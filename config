@@ -1,6 +1,6 @@
 adjust-underline-position = 4
 background-opacity = 0.9
-copy-on-select = clipboard
+# copy-on-select = clipboard
 cursor-invert-fg-bg = true
 font-family = "BlexMono Nerd Font Mono"
 font-family = "MonaspiceAr Nerd Font Mono"
